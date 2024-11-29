@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Joaquin!",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Jesús Román Zamora",
+    "label": "Backend developer with experience in C# and Java",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "jesus.roman@a.vedrunasevillasj.es",
+    "phone": "+34 681908979",
+    "url": "https://github.com/JesusRZ05",
+    "summary": "Backend developer living in Seville, flexible and wanting to work with anyone and everything.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41019",
+      "city": "Seville",
       "countryCode": "ES",
       "region": "Spain"
     },
@@ -27,8 +27,8 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "JesusRZ05",
+        "url": "https://github.com/JesusRZ05"
       }
     ]
   },
@@ -100,13 +100,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "IES Llanes",
+    "url": "https://iesllanes.es/",
+    "area": "Technological Sciences",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2021-01-01",
+    "endDate": "2023-01-01",
+    "score": "7.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
@@ -133,23 +133,23 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Intermediate",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Beginner",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "Java",
+      "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "App development", "Frontend", "Backend", "Java"
       ]
     },
     {
@@ -175,21 +175,21 @@
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Beginner",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
       ]
@@ -215,15 +215,15 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "French",
+      "fluency": "Novice"
     }
   ],
   "interests": [{
     "name": "Wildlife",
     "keywords": [
       "Ferrets",
-      "Unicorns"
+      "Cats"
     ]
   }],
   "projects": [
