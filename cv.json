@@ -228,64 +228,64 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": ".",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05"
     },
     {
-      "name": "AdventJS",
+      "name": ".",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        "",
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05"
     },
     {
-      "name": "Codember",
+      "name": ".",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": "",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05"
     },
     {
-      "name": "codi.link",
+      "name": ".",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": "",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05",
       "github": "https://github.com/JesusRZ05"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": ".",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": "",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05",
       "github": "https://github.com/JesusRZ05"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": ".",
+      "description": "",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        "",
+        ""
       ],
       "url": "https://github.com/JesusRZ05"
     }
