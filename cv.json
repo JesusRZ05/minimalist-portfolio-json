@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "GitHub",
