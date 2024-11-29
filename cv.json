@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Jesús Román Zamora",
-    "label": "",
-    "image": "",
+    "label": ".",
+    "image": "/me.webp",
     "email": "jesus.roman@a.vedrunasevillasj.es",
     "phone": "+34 681 908 979",
-    "url": "",
+    "url": ".",
     "summary": "Experience with Java, C#, HTML and CSS. Knowledge of several text editors and IDEs: IntellIiJ, Visual Studio, VS Code, Android Studio",
     "location": {
       "address": "St Albatros N. 3",
@@ -22,9 +22,9 @@
     "studyType": "Bachelor",
     "startDate": "2021",
     "endDate": "2023",
-    "score": "",
+    "score": ".",
     "courses": [
-      ""
+      "."
     ]
   }],
   "publications": [{
@@ -53,14 +53,13 @@
       "name": "Java",
       "level": "Advanced",
       "keywords": [
-        "", "Frontend", "Backend", ""
+        "Frontend", "Backend"
       ]
     },
     {
       "name": "C#",
       "level": "Advanced",
       "keywords": [
-        "", "", "", ""
       ]
     },
     {
