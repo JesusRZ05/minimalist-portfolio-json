@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": ".",
+        "username": ".",
+        "url": "."
       },
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": ".",
+        "username": ".",
+        "url": "."
       },
       {
         "network": "GitHub",
