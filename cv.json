@@ -153,21 +153,21 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "C#",
       "level": "Advanced",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        "App development", "Frontend", "Frontend", "App development"
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "CSS",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
+      "name": "HTML",
       "level": "Advanced",
       "keywords": [
         "Web development", "Backend", "JavaScript", "Servidor"
@@ -195,14 +195,14 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "HTML",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
-      "name": "React",
+      "name": "Java",
       "level": "Advanced",
       "keywords": [
         "Web development", "Frontend", "JavaScript Library", "UI"
